@@ -42,8 +42,8 @@
       "image": "https://tse3.mm.bing.net/th?id=OIP.0PLZ-gPPZJtRdLTQm8L_mAHaFj&pid=Api",
       "content": "The advent of AI tools such as ChatGPT and GitHub Copilot is transforming software engineering roles. These tools can handle routine coding tasks, allowing engineers to concentrate on more complex aspects like system architecture and innovative problem-solving. As AI becomes more integrated into development processes, engineers will need to develop skills in AI tool management and ethical considerations. The role of the software engineer is evolving to include oversight of AI-generated code and ensuring its alignment with project goals and standards."
     },
-    {
-      "articles": [
+    
+     
         {
           "title": "Amazon Engineers Adapting to AI-Driven Changes",
           "description": "According to the New York Post, Amazon's software engineers may need to acquire new skills beyond coding as AI continues to evolve, potentially altering traditional development roles.",
@@ -62,7 +62,7 @@
           "image": "https://tse1.mm.bing.net/th?id=OIP.8PmPhGKrqsxXCTMbgsuTLwHaEK&pid=Api",
           "content": "Software engineering offers a wide range of career paths in areas like application development, system design, cybersecurity, and data engineering. The core of a successful software engineering career lies in blending strong programming skills with solid knowledge of engineering principles. Industries such as healthcare, finance, education, and entertainment all rely heavily on software engineers. Employers typically look for candidates with degrees in computer science or related fields, strong analytical abilities, teamwork, and adaptability. Emerging trends include cloud computing, AI integration, and the Internet of Things (IoT), all of which present new challenges and opportunities for software engineers."
         }
-      ]
-    }
+      
+
   ]
 }
